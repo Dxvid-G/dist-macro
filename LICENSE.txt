@@ -23,7 +23,6 @@ under a different license than this one, are prohibited.
 In case of doubts or controversies related to this License, both parties submit to the 
 jurisdiction of the courts of the city of [city], waiving any other jurisdiction that may 
 correspond to them.
-
 ======================================================================================================
 LICENCIA
 
@@ -49,7 +48,6 @@ bajo una licencia diferente a la presente, están prohibidas.
 En caso de dudas o controversias relacionadas con esta Licencia, ambas partes se someten a la 
 jurisdicción de los tribunales de la ciudad de [ciudad], con renuncia a cualquier otro fuero que pudiera 
 corresponderles.
-
 ======================================================================================================
 ЛИЦЕНЗИЯ
 
