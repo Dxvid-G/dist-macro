@@ -15,7 +15,7 @@ for each key, allowing the user to save different sets of custom messages and lo
 as needed for different contexts.
 =====================================================================================
 DESCRIPCIÓN
-El programa macro 2023 que se está presentando se perfila como una herramienta altamente eficiente y personalizable 
+El programa macro que se está presentando se perfila como una herramienta altamente eficiente y personalizable 
 para mejorar la productividad de los usuarios. Con la capacidad de asignar mensajes personalizados a las teclas 
 de función F1 a F12, el programa detecta de manera rápida y precisa cada vez que el usuario presiona cualquiera 
 de estas teclas y responde instantáneamente con el mensaje correspondiente.
