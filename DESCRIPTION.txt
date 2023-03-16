@@ -1,6 +1,5 @@
 ﻿=====================================================================================
 DESCRIPTION
-
 The macro program being presented is emerging as a highly efficient and customizable tool to improve user productivity. 
 to improve user productivity. With the ability to assign custom messages to the function keys F1 to F12, the program quickly and accurately 
 F1 to F12 function keys, the program quickly and accurately detects each time the user presses any of these keys and responds instantly with the 
@@ -16,7 +15,6 @@ for each key, allowing the user to save different sets of custom messages and lo
 as needed for different contexts.
 =====================================================================================
 DESCRIPCIÓN
-
 El programa macro que se está presentando se perfila como una herramienta altamente eficiente y personalizable 
 para mejorar la productividad de los usuarios. Con la capacidad de asignar mensajes personalizados a las teclas 
 de función F1 a F12, el programa detecta de manera rápida y precisa cada vez que el usuario presiona cualquiera 
@@ -32,7 +30,6 @@ para cada tecla, lo que permite al usuario guardar diferentes conjuntos de mensa
 según sea necesario para diferentes contextos.
 =====================================================================================
 ОПИСАНИЕ
-
 Представляемая макропрограмма становится высокоэффективным и настраиваемым инструментом для повышения производительности труда пользователей. 
 для повышения производительности труда пользователей. Благодаря возможности назначать индивидуальные сообщения функциональным клавишам F1 - F12, программа быстро и точно определяет 
 Функциональные клавиши F1 - F12, программа быстро и точно определяет каждый раз, когда пользователь нажимает любую из этих клавиш, и мгновенно реагирует на нажатие соответствующей клавиши. 
