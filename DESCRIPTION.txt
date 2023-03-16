@@ -1,0 +1,49 @@
+﻿=====================================================================================
+DESCRIPTION
+
+The macro program being presented is emerging as a highly efficient and customizable tool to improve user productivity. 
+to improve user productivity. With the ability to assign custom messages to the function keys F1 to F12, the program quickly and accurately 
+F1 to F12 function keys, the program quickly and accurately detects each time the user presses any of these keys and responds instantly with the 
+and instantly responds with a corresponding message.
+
+The program's user interface is very intuitive and easy to use, allowing users to edit the messages assigned to each key at any time. 
+the messages assigned to each key at any time. In addition, the adjustable typing speed function 
+is an outstanding feature, as it allows the user to adapt the typing speed of messages when a function key is activated. 
+when a function key is activated.
+
+Another impressive feature of the program is the function of saving and loading dynamic messages 
+for each key, allowing the user to save different sets of custom messages and load them as needed for different contexts. 
+as needed for different contexts.
+=====================================================================================
+DESCRIPCIÓN
+
+El programa macro que se está presentando se perfila como una herramienta altamente eficiente y personalizable 
+para mejorar la productividad de los usuarios. Con la capacidad de asignar mensajes personalizados a las teclas 
+de función F1 a F12, el programa detecta de manera rápida y precisa cada vez que el usuario presiona cualquiera 
+de estas teclas y responde instantáneamente con el mensaje correspondiente.
+
+La interfaz de usuario del programa es muy intuitiva y fácil de usar, lo que permite a los usuarios editar 
+los mensajes asignados a cada tecla en cualquier momento. Además, la función de velocidad de escritura ajustable 
+es una característica destacada, ya que permite al usuario adaptar la velocidad de escritura de los mensajes 
+cuando se activa una tecla de función.
+
+Otra característica impresionante del programa es la función de guardar y cargar mensajes dinámicos 
+para cada tecla, lo que permite al usuario guardar diferentes conjuntos de mensajes personalizados y cargarlos 
+según sea necesario para diferentes contextos.
+=====================================================================================
+ОПИСАНИЕ
+
+Представляемая макропрограмма становится высокоэффективным и настраиваемым инструментом для повышения производительности труда пользователей. 
+для повышения производительности труда пользователей. Благодаря возможности назначать индивидуальные сообщения функциональным клавишам F1 - F12, программа быстро и точно определяет 
+Функциональные клавиши F1 - F12, программа быстро и точно определяет каждый раз, когда пользователь нажимает любую из этих клавиш, и мгновенно реагирует на нажатие соответствующей клавиши. 
+и мгновенно реагирует соответствующим сообщением.
+
+Пользовательский интерфейс программы очень интуитивно понятен и прост в использовании, что позволяет пользователям в любое время редактировать сообщения, назначенные каждой клавише. 
+Сообщения, назначенные каждой клавише, можно редактировать в любое время. Кроме того, функция регулируемой скорости набора текста 
+является выдающейся функцией, поскольку она позволяет пользователю регулировать скорость набора сообщений при активации функциональной клавиши. 
+когда активируется функциональная клавиша.
+
+Еще одной впечатляющей особенностью программы является функция сохранения и загрузки динамических сообщений для каждой клавиши, что позволяет пользователю 
+для каждой клавиши, что позволяет пользователю сохранять различные наборы пользовательских сообщений и загружать их по мере необходимости для различных контекстов. 
+По мере необходимости для различных контекстов.
+=====================================================================================
