@@ -1,0 +1,80 @@
+======================================================================================================
+LICENSE
+======================================================================================================
+
+Software for personal use by David, version "X".
+
+This software is exclusively designed for personal use and is not intended for commercial 
+or profit-making purposes. Distribution of this software is permitted free of charge, 
+provided that this license is included. However, the creator of this software is not liable 
+for any consequences or damages that may arise from the use of this software.
+
+By using this software, you agree to do so at your own risk and understand that the creator 
+of this software is not responsible for any loss, damage or harm that may result from the 
+use of this software.
+
+This License applies to all versions of this software and any modifications made to it. 
+If you do not agree to the terms of this License, you are not allowed to use or distribute 
+this software.
+
+Any form of commercial or profit-making use of the software is expressly prohibited. 
+Additionally, modification of the source code, as well as distribution of the software 
+under a different license than this one, are prohibited.
+
+In case of doubts or controversies related to this License, both parties submit to the 
+jurisdiction of the courts of the city of [city], waiving any other jurisdiction that may 
+correspond to them.
+
+======================================================================================================
+LICENCIA
+======================================================================================================
+
+Software para uso personal de David, versión "X".
+
+Este software está diseñado exclusivamente para uso personal y no está destinado a fines comerciales 
+fines comerciales o lucrativos. Se permite la distribución gratuita de este software 
+siempre que se incluya esta licencia. No obstante, el creador de este software no se hace responsable 
+de las consecuencias o daños que puedan derivarse del uso de este software.
+
+Al utilizar este software, usted acepta hacerlo bajo su propia responsabilidad y entiende que el creador 
+de este software no es responsable de ninguna pérdida, daño o perjuicio que pueda derivarse del 
+uso de este software.
+
+Esta Licencia se aplica a todas las versiones de este software y a cualquier modificación que se le haga. 
+Si no está de acuerdo con los términos de esta Licencia, no está autorizado a utilizar o distribuir 
+este software.
+
+Queda expresamente prohibida cualquier forma de utilización comercial o lucrativa del software. 
+Además, la modificación del código fuente, así como la distribución del software 
+bajo una licencia diferente a la presente, están prohibidas.
+
+En caso de dudas o controversias relacionadas con esta Licencia, ambas partes se someten a la 
+jurisdicción de los tribunales de la ciudad de [ciudad], con renuncia a cualquier otro fuero que pudiera 
+corresponderles.
+
+======================================================================================================
+ЛИЦЕНЗИЯ
+======================================================================================================
+
+Программное обеспечение для личного использования Дэвидом, версия "X".
+
+Данное программное обеспечение предназначено исключительно для личного использования и не предназначено для коммерческих 
+или извлечения прибыли. Распространение данного программного обеспечения разрешено бесплатно, 
+при условии включения данной лицензии. Однако создатель данного программного обеспечения не несет ответственности 
+за любые последствия или ущерб, которые могут возникнуть в результате использования данного программного обеспечения.
+
+Используя данное программное обеспечение, вы соглашаетесь делать это на свой страх и риск и понимаете, что создатель 
+данного программного обеспечения не несет ответственности за любые потери, ущерб или вред, которые могут возникнуть в результате 
+использования данного программного обеспечения.
+
+Настоящая Лицензия распространяется на все версии данного программного обеспечения и любые модификации, внесенные в него. 
+Если вы не согласны с условиями настоящей Лицензии, вы не имеете права использовать или распространять 
+данное программное обеспечение.
+
+Любая форма коммерческого или нацеленного на получение прибыли использования данного программного обеспечения категорически запрещена. 
+Кроме того, модификация исходного кода, а также распространение программного обеспечения 
+под лицензией, отличной от данной, запрещены.
+
+В случае возникновения сомнений или разногласий, связанных с настоящей Лицензией, обе стороны подчиняются 
+юрисдикции судов города [город], отказываясь от любой другой юрисдикции, которая может 
+соответствовать им.
